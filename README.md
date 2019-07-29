@@ -15,9 +15,9 @@ In order to run the app, you will need to create a `config.js` file in the `src`
 
 ```
 const key = <key_from_dev_portal>
-const partner = <partner_id_from_dev_portal>
+const partner = <any_number_for_sandbox>
 const companyId = <company_id_created>
-const api = "https://apis.askfractal.com"
+const api = "https://sandbox.askfractal.com"
 
 export default {
     key,

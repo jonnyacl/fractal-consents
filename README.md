@@ -7,7 +7,7 @@ Little test-harness react app for consuming Fractal banking connection API
 - npm https://www.npmjs.com/get-npm
 - yarn https://yarnpkg.com/lang/en/
 
-Ensure you are using at least version 8.9.0 of node (use nvm to install different versions https://github.com/nvm-sh/nvm/blob/master/README.md)
+Ensure you are using at least version 8.10.0 of node (use nvm to install different versions https://github.com/nvm-sh/nvm/blob/master/README.md)
 
 ## Local config
 
@@ -31,6 +31,8 @@ export default {
 
 In the project directory, you can run:
 
+
+### `yarn install`
 ### `yarn start`
 
 Runs the app in the development mode.<br>
